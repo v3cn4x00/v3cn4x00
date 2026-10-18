@@ -50,5 +50,5 @@ CVE breakdowns and exploit write-ups for defenders and learners at **[blackhatbr
 <br>
 
 <div align="center">
-<sub>Everything here is for authorized testing and education only.</sub>
+<sub>Everything here is for education only.</sub>
 </div>
