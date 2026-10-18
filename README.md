@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/website-v3cn4.github.io-111111?style=flat-square&logo=githubpages&logoColor=white)](https://v3cn4.github.io)
 [![Blog](https://img.shields.io/badge/blog-blackhatbrew-111111?style=flat-square&logo=rss&logoColor=white)](https://blackhatbrew.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/05muhammadarafat)
 
 </div>
 
