@@ -1,12 +1,12 @@
-# عرفات  /  ARAFAT
+# ARAFAT  /  عرفات
 
 #### Red team operator · Security researcher
 
-[**Portfolio ↗**](https://v3cn4.github.io)   /   [LinkedIn](TODO)   /   [X](TODO)   /   [Say hello](mailto:TODO)
+[**Portfolio ↗**](https://v3cn4.github.io)   /   [LinkedIn](https://linkedin.com/in/05muhammadarafat) 
 
 ---
 
-## من أنا   /   Behind the handle
+## Behind the handle   /   من أنا
 
 Hey, I'm **Muhammad Arafat**, usually **v3cn4** online. I'm **self-taught**. I started out curious about how things break, which led me to Linux, then networking, then hands-on certifications.
 
@@ -14,16 +14,16 @@ I don't lean on a degree. To me it's a piece of paper, and **skill is proven in 
 
 > **Map the surface. Question the assumptions. Trace the attack path.**
 
-### استكشاف   /   Areas I explore
+### Areas I explore   /   استكشاف
 
 | Offense                                                        | Recon & foundations                                              |
 | -------------------------------------------------------------- | ---------------------------------------------------------------- |
 | **Red teaming**<br>Adversary simulation and attack chains.     | **OSINT**<br>Open-source intelligence, recon, and footprinting.  |
 | **Active Directory**<br>Kerberos, delegation, and trust abuse. | **Linux & networking**<br>Where everything started.              |
 
-**قيد التعلم   /   Currently learning:** Web pentesting
+**Currently learning   /   قيد التعلم:** Web pentesting
 
-## الشهادات   /   Certifications
+## Certifications   /   الشهادات
 
 | Certification                                  | Issuer              |
 | ---------------------------------------------- | ------------------- |
@@ -31,18 +31,17 @@ I don't lean on a degree. To me it's a piece of paper, and **skill is proven in 
 | **PNPT**, Practical Network Penetration Tester | TCM Security        |
 | **PT1**, Junior Penetration Tester             | TryHackMe           |
 
-## ملاحظات ميدانية   /   Notes from the field
+## Notes from the field   /   ملاحظات ميدانية
 
 Learn something. Document it. Share it.
 
-**[Read my notes →](TODO)**
+**[Read my notes →](https://v3cn4.medium.com/)**
 
 ---
 
-**حوّل الفضول إلى قوة.**  
-Turn curiosity into strength.
+**Turn curiosity into strength.**   /   **حوّل الفضول إلى قوة.**
 
 Have an interesting security problem or a CTF idea?  
-[**Let's connect →**](mailto:TODO)
+[**Let's connect →**](mailto:05muhammadarafat@gmail.com)
 
-اصنع طريقك   /   Carve your own path.
+Carve your own path.   /   اصنع طريقك
